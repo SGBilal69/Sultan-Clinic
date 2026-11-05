@@ -1,0 +1,6 @@
+{
+  "name": "Sultan Homeopathic Clinic",
+  "description": "Professional clinic and e-commerce medicine portal for Sultan Homeopathic Clinic led by Physician M Zargham Ghaffar. Offering classical homeopathic courses, specialized treatments, appointment booking, and nationwide delivery in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
